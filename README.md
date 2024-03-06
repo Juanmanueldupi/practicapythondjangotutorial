@@ -1,1 +1,1 @@
-# practicapythondjangotutorial
+# PracticaPythonDjango
